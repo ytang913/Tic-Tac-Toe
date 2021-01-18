@@ -1,3 +1,2 @@
 # Tic-Tac-Toe
-
-Using Java for this
+Im gonna use python and pygame for this project

@@ -1,2 +1,5 @@
 # Tic-Tac-Toe
-Im gonna use python and pygame for this project
+# About
+
+# Documentation 
+pygame and python

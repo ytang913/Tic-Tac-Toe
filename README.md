@@ -2,4 +2,5 @@
 # About
 This project is a two player Tic Tac Toe game. 
 # Documentation 
-pygame and python
+# When player one wins
+![](ticTacToeThumbnail.jpg)

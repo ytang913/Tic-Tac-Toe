@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
 # About
-This projectis a Tic Tac Toe game that can be played when it is runned.
+This project is a two player Tic Tac Toe game. 
 # Documentation 
 pygame and python
